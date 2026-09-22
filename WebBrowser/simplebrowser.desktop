@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=simplebrowser
+Comment=A minimal web browser
+Exec=simplebrowser %u
+Icon=simplebrowser
+Categories=Network;WebBrowser;
+Terminal=false
