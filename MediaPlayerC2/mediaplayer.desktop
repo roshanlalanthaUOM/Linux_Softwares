@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Simple Media Player
+Comment=Play audio and video files
+Exec=mediaplayer %F
+Icon=multimedia-video-player
+Terminal=false
+Categories=AudioVideo;Player;
+MimeType=audio/mpeg;audio/x-wav;audio/flac;audio/ogg;audio/mp4;video/mp4;video/x-matroska;video/webm;video/x-msvideo;
